@@ -1,0 +1,5 @@
+Column,Description
+amfi_code,Fund code
+scheme_name,Fund Name
+nav,Net Asset Value
+transaction_type,Type of investment
